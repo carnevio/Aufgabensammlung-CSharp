@@ -12,14 +12,19 @@ namespace _04_Monatsnamen
         {
             Console.Write("Gib eine Zahl von 1-12 ein:");
             string eingabe = Console.ReadLine();
-
-            string[] months = new string[] { "Januar", "Februar", "März", "April", "Mai", "Juni", "August", "September", "Oktober","November", "November" };
-
             
-
+            string[] months = new string[] { "Januar", "Februar", "März", "April", "Mai", "Juni", "August", "September", "Oktober","November", "November" };
+            
             if (int.TryParse(eingabe, out int zahl))
             {
-                Console.WriteLine(months[zahl - 1]); 
+                if (zahl > 0 && zahl < 13) 
+                {
+                    Console.WriteLine(months[zahl - 1]); 
+                }
+                else 
+                {
+                    Console.WriteLine("Fehler: Bitte eine Ganzzahl zwischen 1 und 12 eingeben.");
+                }
             }
             else
             {
