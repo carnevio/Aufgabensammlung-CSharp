@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Durch 3 oder 5 teilbare 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Eine Ganzzahl binär darstellen", "08-Eine Ganzzahl binär darstellen\08-Eine Ganzzahl binär darstellen.csproj", "{74AD1BA2-F05C-4C6E-9E6C-ADAFFEDFC134}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-Quersumme Berechnen", "09-Quersumme Berechnen\09-Quersumme Berechnen.csproj", "{ABC6BE7B-03F0-4122-B8DE-72C4807F3EBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{74AD1BA2-F05C-4C6E-9E6C-ADAFFEDFC134}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74AD1BA2-F05C-4C6E-9E6C-ADAFFEDFC134}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74AD1BA2-F05C-4C6E-9E6C-ADAFFEDFC134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC6BE7B-03F0-4122-B8DE-72C4807F3EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC6BE7B-03F0-4122-B8DE-72C4807F3EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC6BE7B-03F0-4122-B8DE-72C4807F3EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC6BE7B-03F0-4122-B8DE-72C4807F3EBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
