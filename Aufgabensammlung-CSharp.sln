@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-FlussdiagrammImplementie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Kleines1x1", "06-Kleines1x1\06-Kleines1x1.csproj", "{BD209A7B-06D4-4370-8F14-3DDB9E13E797}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Durch 3 oder 5 teilbare Zahlen", "07-Durch 3 oder 5 teilbare Zahlen\07-Durch 3 oder 5 teilbare Zahlen.csproj", "{4719DB56-B41D-413A-A877-A4BEBC7DE9AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BD209A7B-06D4-4370-8F14-3DDB9E13E797}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD209A7B-06D4-4370-8F14-3DDB9E13E797}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD209A7B-06D4-4370-8F14-3DDB9E13E797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4719DB56-B41D-413A-A877-A4BEBC7DE9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4719DB56-B41D-413A-A877-A4BEBC7DE9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4719DB56-B41D-413A-A877-A4BEBC7DE9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4719DB56-B41D-413A-A877-A4BEBC7DE9AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
