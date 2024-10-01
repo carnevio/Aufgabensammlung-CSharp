@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Monatsnamen", "04-Monats
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-FlussdiagrammImplementieren2", "05-FlussdiagrammImplementieren2\05-FlussdiagrammImplementieren2.csproj", "{0FF7AFDA-0DEC-4DD6-B830-268DC0DFD548}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Kleines1x1", "06-Kleines1x1\06-Kleines1x1.csproj", "{BD209A7B-06D4-4370-8F14-3DDB9E13E797}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0FF7AFDA-0DEC-4DD6-B830-268DC0DFD548}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FF7AFDA-0DEC-4DD6-B830-268DC0DFD548}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FF7AFDA-0DEC-4DD6-B830-268DC0DFD548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD209A7B-06D4-4370-8F14-3DDB9E13E797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD209A7B-06D4-4370-8F14-3DDB9E13E797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD209A7B-06D4-4370-8F14-3DDB9E13E797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD209A7B-06D4-4370-8F14-3DDB9E13E797}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
