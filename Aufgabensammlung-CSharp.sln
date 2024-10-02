@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-do-Schleife als while-Sc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Schaltjahr", "13-Schaltjahr\13-Schaltjahr.csproj", "{C527E643-AD5E-4C85-BB05-B27FF59DBE06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Tannenbaum zeichnen", "14-Tannenbaum zeichnen\14-Tannenbaum zeichnen.csproj", "{99AF0CA4-BE23-48F5-94D5-72551FADB422}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{C527E643-AD5E-4C85-BB05-B27FF59DBE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C527E643-AD5E-4C85-BB05-B27FF59DBE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C527E643-AD5E-4C85-BB05-B27FF59DBE06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AF0CA4-BE23-48F5-94D5-72551FADB422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AF0CA4-BE23-48F5-94D5-72551FADB422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AF0CA4-BE23-48F5-94D5-72551FADB422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AF0CA4-BE23-48F5-94D5-72551FADB422}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
