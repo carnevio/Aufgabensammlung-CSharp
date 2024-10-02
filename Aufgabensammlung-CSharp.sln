@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-Durch Quersumme teilbare
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Eine diagonale Linie zechnen", "11-Eine diagonale Linie zechnen\11-Eine diagonale Linie zechnen.csproj", "{35ECF3C4-1DCB-4F19-A58E-64F66BBF1E5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-do-Schleife als while-Schleife implementieren", "12-do-Schleife als while-Schleife implementieren\12-do-Schleife als while-Schleife implementieren.csproj", "{7FBE4A8C-87E1-404F-946A-879DCF324DCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{35ECF3C4-1DCB-4F19-A58E-64F66BBF1E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35ECF3C4-1DCB-4F19-A58E-64F66BBF1E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35ECF3C4-1DCB-4F19-A58E-64F66BBF1E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBE4A8C-87E1-404F-946A-879DCF324DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBE4A8C-87E1-404F-946A-879DCF324DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBE4A8C-87E1-404F-946A-879DCF324DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBE4A8C-87E1-404F-946A-879DCF324DCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
