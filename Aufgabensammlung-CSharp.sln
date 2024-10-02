@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Eine diagonale Linie zec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-do-Schleife als while-Schleife implementieren", "12-do-Schleife als while-Schleife implementieren\12-do-Schleife als while-Schleife implementieren.csproj", "{7FBE4A8C-87E1-404F-946A-879DCF324DCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Schaltjahr", "13-Schaltjahr\13-Schaltjahr.csproj", "{C527E643-AD5E-4C85-BB05-B27FF59DBE06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{7FBE4A8C-87E1-404F-946A-879DCF324DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FBE4A8C-87E1-404F-946A-879DCF324DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FBE4A8C-87E1-404F-946A-879DCF324DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C527E643-AD5E-4C85-BB05-B27FF59DBE06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C527E643-AD5E-4C85-BB05-B27FF59DBE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C527E643-AD5E-4C85-BB05-B27FF59DBE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C527E643-AD5E-4C85-BB05-B27FF59DBE06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
