@@ -24,6 +24,7 @@ namespace _14_Tannenbaum_zeichnen
             int number1 = 3;
             int zusatz = 0;
 
+            //Krone
             for (int e = 2; e <= heightcrown; e++)
             {
 
@@ -62,6 +63,8 @@ namespace _14_Tannenbaum_zeichnen
                 
                 
             }
+
+            //Stamme
 
             for (int e = 2; e <= (heightcrown * 2); e++)
             {
