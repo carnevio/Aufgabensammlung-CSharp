@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Tannenbaum zeichnen", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Zaheln raten", "15-Zaheln raten\15-Zaheln raten.csproj", "{2918DCBD-A17A-4D1F-9DA0-35A65F7712EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-Vokale zählen", "16-Vokale zählen\16-Vokale zählen.csproj", "{38813462-B9FB-4E96-98B0-3C9DBE68B0D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{2918DCBD-A17A-4D1F-9DA0-35A65F7712EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2918DCBD-A17A-4D1F-9DA0-35A65F7712EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2918DCBD-A17A-4D1F-9DA0-35A65F7712EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38813462-B9FB-4E96-98B0-3C9DBE68B0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38813462-B9FB-4E96-98B0-3C9DBE68B0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38813462-B9FB-4E96-98B0-3C9DBE68B0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38813462-B9FB-4E96-98B0-3C9DBE68B0D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
