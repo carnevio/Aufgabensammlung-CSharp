@@ -22,9 +22,12 @@ namespace _14_Tannenbaum_zeichnen
             int WertKrone = 1;
             int number = 0;
             int number1 = 3;
+            int zusatz = 0;
 
             for (int e = 2; e <= heightcrown; e++)
             {
+
+                Console.Write(' ');
                 for (int l = 0; l <= heightcrown-number1; l++)
                 {
                     Console.Write(" ");
@@ -56,13 +59,21 @@ namespace _14_Tannenbaum_zeichnen
                 WertKrone++;
                 WertKrone++;
                 
+                
+                
             }
-            
-            
 
+            for (int e = 2; e <= (heightcrown * 2); e++)
+            {
+                Console.Write("*");
+                
+            }
+            Console.WriteLine(" ");
+
+            int middle = heightcrown - (width / 2)-1;
             for (int j = 0; j < height; j++)
             {
-                int middle = heightcrown - (width /2);
+                
                 for (int l = 0; l < middle; l++)
                 {
                     Console.Write(" ");

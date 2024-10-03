@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Schaltjahr", "13-Schaltj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Tannenbaum zeichnen", "14-Tannenbaum zeichnen\14-Tannenbaum zeichnen.csproj", "{99AF0CA4-BE23-48F5-94D5-72551FADB422}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Zaheln raten", "15-Zaheln raten\15-Zaheln raten.csproj", "{2918DCBD-A17A-4D1F-9DA0-35A65F7712EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{99AF0CA4-BE23-48F5-94D5-72551FADB422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99AF0CA4-BE23-48F5-94D5-72551FADB422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99AF0CA4-BE23-48F5-94D5-72551FADB422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2918DCBD-A17A-4D1F-9DA0-35A65F7712EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2918DCBD-A17A-4D1F-9DA0-35A65F7712EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2918DCBD-A17A-4D1F-9DA0-35A65F7712EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2918DCBD-A17A-4D1F-9DA0-35A65F7712EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

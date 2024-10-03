@@ -13,7 +13,7 @@ namespace _04_Monatsnamen
             Console.Write("Gib eine Zahl von 1-12 ein:");
             string eingabe = Console.ReadLine();
             
-            string[] months = new string[] { "Januar", "Februar", "März", "April", "Mai", "Juni", "August", "September", "Oktober","November", "November" };
+            string[] months = new string[] { "Januar", "Februar", "März", "April", "Mai", "Juni","Juli",  "August", "September", "Oktober","November", "November" };
             
             if (int.TryParse(eingabe, out int zahl))
             {
