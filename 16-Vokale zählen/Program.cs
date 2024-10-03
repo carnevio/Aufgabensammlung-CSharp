@@ -30,6 +30,7 @@ namespace _16_Vokale_zählen
             int vowel_countö = 0; char ö = 'ö';
             int vowel_countü = 0; char ü = 'ü';
             int vowel_count = 0;
+            
 
 
             for (int l = 0; l < satz.Length; l++)
