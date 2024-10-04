@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-Witze API", "17-Witze AP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-Alter brechnen", "18-Alter brechnen\18-Alter brechnen.csproj", "{B91F5B9D-82D2-4E29-9773-D6CC5A7BB512}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-Rechner", "19-Rechner\19-Rechner.csproj", "{8BEEA527-F46D-475D-BED9-832CD811BE5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{B91F5B9D-82D2-4E29-9773-D6CC5A7BB512}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B91F5B9D-82D2-4E29-9773-D6CC5A7BB512}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B91F5B9D-82D2-4E29-9773-D6CC5A7BB512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BEEA527-F46D-475D-BED9-832CD811BE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BEEA527-F46D-475D-BED9-832CD811BE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BEEA527-F46D-475D-BED9-832CD811BE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BEEA527-F46D-475D-BED9-832CD811BE5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
